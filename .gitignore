@@ -1,0 +1,9 @@
+datasets/
+models/
+pico/build
+.DS_Store
+.vscode
+__pycache__/
+.ipynb_checkpoints
+Untitled.ipynb
+.cache
